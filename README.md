@@ -12,6 +12,25 @@ The purpose of this repo is to document security research in a practical analyst
 | 2026-07-01 | [CVE-2026-45659: Microsoft SharePoint Server Deserialization](research-notes/2026/2026-07-01-cve-2026-45659-microsoft-sharepoint-deserialization.md) | Authenticated code execution risk, SharePoint/IIS/Windows evidence, response notes |
 | 2026-06-29 | [CVE-2026-48558: SimpleHelp OIDC Authentication Bypass](research-notes/2026/2026-06-29-cve-2026-48558-simplehelp-oidc-authentication-bypass.md) | Identity validation risk, remote support monitoring, IdP correlation, MFA review |
 
+## Past Year KEV Review
+
+Monthly reviews based on CISA's Known Exploited Vulnerabilities catalog. Each note highlights representative exploited vulnerabilities from that month and turns them into analyst-focused review points.
+
+| Month | Review |
+| --- | --- |
+| 2026-06 | [June 2026 KEV Review](research-notes/past-year/2026-06-kev-review.md) |
+| 2026-05 | [May 2026 KEV Review](research-notes/past-year/2026-05-kev-review.md) |
+| 2026-04 | [April 2026 KEV Review](research-notes/past-year/2026-04-kev-review.md) |
+| 2026-03 | [March 2026 KEV Review](research-notes/past-year/2026-03-kev-review.md) |
+| 2026-02 | [February 2026 KEV Review](research-notes/past-year/2026-02-kev-review.md) |
+| 2026-01 | [January 2026 KEV Review](research-notes/past-year/2026-01-kev-review.md) |
+| 2025-12 | [December 2025 KEV Review](research-notes/past-year/2025-12-kev-review.md) |
+| 2025-11 | [November 2025 KEV Review](research-notes/past-year/2025-11-kev-review.md) |
+| 2025-10 | [October 2025 KEV Review](research-notes/past-year/2025-10-kev-review.md) |
+| 2025-09 | [September 2025 KEV Review](research-notes/past-year/2025-09-kev-review.md) |
+| 2025-08 | [August 2025 KEV Review](research-notes/past-year/2025-08-kev-review.md) |
+| 2025-07 | [July 2025 KEV Review](research-notes/past-year/2025-07-kev-review.md) |
+
 ## Templates and Methodology
 
 | Area | Notes |
