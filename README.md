@@ -4,7 +4,15 @@ A focused repository for cybersecurity research notes, threat breakdowns, vulner
 
 The purpose of this repo is to document security research in a practical analyst format: what happened, why it matters, what evidence to look for, how detection can be improved, and what response actions reduce risk.
 
-## Research Index
+## Current Research Notes
+
+| Date | Topic | Focus |
+| --- | --- | --- |
+| 2026-07-07 | [CVE-2026-48282: Adobe ColdFusion Path Traversal](research-notes/2026/2026-07-07-cve-2026-48282-adobe-coldfusion-path-traversal.md) | Internet-facing application risk, traversal detection, web log review, response steps |
+| 2026-07-01 | [CVE-2026-45659: Microsoft SharePoint Server Deserialization](research-notes/2026/2026-07-01-cve-2026-45659-microsoft-sharepoint-deserialization.md) | Authenticated code execution risk, SharePoint/IIS/Windows evidence, response notes |
+| 2026-06-29 | [CVE-2026-48558: SimpleHelp OIDC Authentication Bypass](research-notes/2026/2026-06-29-cve-2026-48558-simplehelp-oidc-authentication-bypass.md) | Identity validation risk, remote support monitoring, IdP correlation, MFA review |
+
+## Templates and Methodology
 
 | Area | Notes |
 | --- | --- |
